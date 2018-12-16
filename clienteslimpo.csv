@@ -1,4 +1,4 @@
-cliente,data_compra,identificacao,idade,estado_civil,A,B,C,D,E,F,renda,comp_renda,bandeira_cartao,G,sexo,produto 
+cliente,data_compra,identificacao,idade,estado_civil,A,B,C,D,E,F,renda,comp_renda,bandeira_cartao,G,sexo,produt 
 1,23/10/1999,00061438761231,061,Casado(a),S,S,02,S,N,00,2.001.00-4.000.00,Não Possui,Visa,0149,F,N04
 2,23/10/1999,00007539570251,066,Casado(a),N,N,03,N,N,21,Até  1.000.00,Não Possui,Nenhum,0008,M,N05
 3,23/10/1999,00005429217161,066,Solteiro(a),S,S,02,S,N,05,2.001.00-4.000.00,Compr. de Atividade,Mastercard+Visa,0091,M,N12
