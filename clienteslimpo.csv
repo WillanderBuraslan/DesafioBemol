@@ -1,11 +1,11 @@
-cliente,data_compra,id,idade,estado_civil,A,B,C,D,E,F,renda,comp_renda,bandeira_cartao,G,sexo,produto 
-1,23/10/1999,00061438761231,061,Casado(a),S,S,02,S,N,00,2.001.00-4.000.00,N„o Possui,Visa,0149,F,N04
-2,23/10/1999,00007539570251,066,Casado(a),N,N,03,N,N,21,AtÈ  1.000.00,N„o Possui,Nenhum,0008,M,N05
+cliente,data_compra,identificacao,idade,estado_civil,A,B,C,D,E,F,renda,comp_renda,bandeira_cartao,G,sexo,produto 
+1,23/10/1999,00061438761231,061,Casado(a),S,S,02,S,N,00,2.001.00-4.000.00,N√£o Possui,Visa,0149,F,N04
+2,23/10/1999,00007539570251,066,Casado(a),N,N,03,N,N,21,At√©  1.000.00,N√£o Possui,Nenhum,0008,M,N05
 3,23/10/1999,00005429217161,066,Solteiro(a),S,S,02,S,N,05,2.001.00-4.000.00,Compr. de Atividade,Mastercard+Visa,0091,M,N12
 4,23/10/1999,00001761017149,083,Casado(a),S,S,01,S,S,00,1.001.00-2.000.00,Ct-chq/IR (NAO USAR),Nenhum,0378,M,N12
-5,23/10/1999,00004321391204,070,Casado(a),S,S,02,N,S,00,1.001.00-2.000.00,N„o Possui,Nenhum,0019,F,N04
-6,23/10/1999,00013024171220,073,Casado(a),N,N,00,S,N,00,AtÈ  1.000.00,N„o Possui,Nenhum,0020,M,N01
-7,23/10/1999,00000000110000,081,Separado(a),N,N,02,N,N,00,,N„o Possui,Nenhum,0030,F,N05
-8,23/10/1999,00014019711215,063,Casado(a),N,N,02,N,S,00,AtÈ  1.000.00,N„o Possui,Nenhum,0029,M,N07
-9,23/10/1999,00005384501115,070,Casado(a),N,S,00,N,N,09,2.001.00-4.000.00,N„o Possui,Nenhum,0032,M,N13
-10,23/10/1999,00013534871187,063,Casado(a),S,S,02,S,N,15,2.001.00-4.000.00,Ct-chq/IR (NAO USAR),Outros/Cartıes Lojas,0000,M,N04
+5,23/10/1999,00004321391204,070,Casado(a),S,S,02,N,S,00,1.001.00-2.000.00,N√£o Possui,Nenhum,0019,F,N04
+6,23/10/1999,00013024171220,073,Casado(a),N,N,00,S,N,00,At√©  1.000.00,N√£o Possui,Nenhum,0020,M,N01
+7,23/10/1999,00000000110000,081,Separado(a),N,N,02,N,N,00,,N√£o Possui,Nenhum,0030,F,N05
+8,23/10/1999,00014019711215,063,Casado(a),N,N,02,N,S,00,At√©  1.000.00,N√£o Possui,Nenhum,0029,M,N07
+9,23/10/1999,00005384501115,070,Casado(a),N,S,00,N,N,09,2.001.00-4.000.00,N√£o Possui,Nenhum,0032,M,N13
+10,23/10/1999,00013534871187,063,Casado(a),S,S,02,S,N,15,2.001.00-4.000.00,Ct-chq/IR (NAO USAR),Outros/Cart√µes Lojas,0000,M,N04
